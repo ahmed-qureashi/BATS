@@ -265,7 +265,6 @@ npm run build
 
 ### 📋 **Complete Submission Package**
 - ✅ **Live Demo**: [BATS.software](https://BATS.software)
-- ✅ **GitHub Repo**: [Hacknauts](https://github.com/chetanck03/hacknauts) (100% Open Source)
 - ✅ **8 Smart Contracts**: Deployed across all major testnets
 - ✅ **Mobile Responsive**: Perfect mobile experience
 - ✅ **AI Integration**: Gemini AI assistant
