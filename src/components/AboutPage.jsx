@@ -107,7 +107,7 @@ function AboutPage() {
               </p>
               <p className="text-sm md:text-lg text-gray-300 mb-8 leading-relaxed">
                 Built with enterprise-level security, industry-standard BIP39/BIP44 cryptographic methods, integrated escrow system for secure fund transfers, QR code functionality for seamless transactions, AI-powered customer assistance, and zero data collection,
-                BATS bridges the gap between temporary convenience and professional multi-chain functionality.
+                BATS --- bridges the gap between temporary convenience and professional multi-chain functionality.
                 Experience comprehensive crypto wallet management across 8 blockchain networks today.
               </p>
 
@@ -465,7 +465,7 @@ function AboutPage() {
                 href="/dashboard"
                 className="group inline-flex items-center justify-center rounded-full border-[1px] border-transparent bg-gradient-to-tr from-zinc-300/5 via-purple-400/20 to-transparent px-10 py-4 text-center text-white transition-colors hover:bg-transparent/90 text-lg font-medium"
               >
-                Launch BATS
+                Launch  BATS GOGO
                 <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
               </a>
             </div>
