@@ -273,14 +273,10 @@ npm run build
 - ✅ **Production Ready**: Professional error handling
 
 ### 📄 **Technical Documentation**
-- **📊 Whitepaper**: [View Complete Technical Analysis](https://www.BATS.software/whitepaper.pdf)
 - **🔧 Architecture**: Detailed system design and implementation
 - **🛡️ Security**: Smart contract audit and security measures
 - **📈 Roadmap**: Future development and scaling plans
 
-### 👨‍💻 **Team** : Jai Mahakal
-- **Developer**: Chetan Kumar , Harsh Kapoor 
-- **Location**: Punjab, India 🇮🇳
 
 ## 🌟 **Competitive Advantages**
 
